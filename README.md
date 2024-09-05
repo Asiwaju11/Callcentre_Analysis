@@ -79,11 +79,11 @@ In summary, the analysis revealed the following :
  
  2.  The prevailing sentiments amongst the callers was **NEGATIVE**
 
-3.  Direct Calls to the call centres was preffered by a majorrity of the customer at around 32%, compared to chatbot, email and web that stood at around **23%,23% and 20%** respectively
+3.  Direct Calls to the call centres was preffered by a majorrity of the customer at around *32%*, compared to chatbot, email and web that stood at around **23%,23% and 20%** respectively
 
  4.  Los Angele/CA's call centre received the most call out of all the branhces
 
-5.  More than 80% of the calls were answered **withing the SLA**
+5.  More than 80% of the calls were answered **within the SLA**
 
 6.  A total of **32,941** calls were received in the month of October
 
