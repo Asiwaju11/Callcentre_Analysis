@@ -94,6 +94,7 @@ In summary, the analysis revealed the following :
 
 ###  Recommendations
 ---------------------
+The following is recommended for the call centre administrators; 
 
 -  Address common issues causing negative sentiment by enhancing customer service training and improving problem resolution protocols.
 
