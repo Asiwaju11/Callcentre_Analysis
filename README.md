@@ -93,7 +93,7 @@ In summary, the analysis revealed the following :
 
 
 ###  Recommendations
----
+---------------------
 
 -  Address common issues causing negative sentiment by enhancing customer service training and improving problem resolution protocols.
 
@@ -104,6 +104,7 @@ In summary, the analysis revealed the following :
 -  Investigate and resolve key issues behind negative sentiment to improve overall customer satisfaction.
 
 ###  References
+---------------------
 -  @herdataproject
 
 -  @asiwaju11
